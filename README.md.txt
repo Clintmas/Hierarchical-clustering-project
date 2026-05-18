@@ -1,32 +1,29 @@
-# Hierarchical Clustering for Pattern Discovery
+Hierarchical Clustering for Pattern Discovery
 
-## Project Objective
+Project Objective
 This project compares different hierarchical clustering linkage methods using the Iris dataset.
 
-## Algorithms Used
+Algorithms Used
 - Single Linkage
 - Complete Linkage
 - Average Linkage
 - Ward Linkage
 
-## Dataset
+Dataset
 Iris Dataset from Scikit-learn
 
-## Technologies Used
+Technologies Used
 - Python
 - Scikit-learn
 - SciPy
 - Matplotlib
 - Pandas
 
-## Visualizations
+Visualizations
 - Dendrograms
 - PCA Cluster Visualization
 - Distance Matrix Heatmap
 - Silhouette Score Comparison
 
-## Results
+Results
 Ward and Average linkage methods produced the best clustering performance based on silhouette scores.
-
-## Author
-Your Name
